@@ -24,3 +24,11 @@ Every borough has a clear and consistent temperature gradient. The higher the di
 2) Extend the distance and create more buffers.
 3) Add more years to compare the cooling effect over different years.
 4) Look at the vegetation type to see whether trees have a more cooling effect than other vegetation types.
+
+## Sources:
+-“Copernicus Browser.” Copernicus Browser, browser.dataspace.copernicus.eu/?zoom=5&lat=50.16282&lng=20.78613&themeId=DEFAULT-THEME&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE. Accessed 19 May 2026.
+-“Matplotlib.Colors.ListedColormap — Matplotlib 3.10.9 Documentation.” Matplotlib.org, matplotlib.org/stable/api/_as_gen/matplotlib.colors.ListedColormap.html. Accessed 19 May 2026.
+-“Reprojection — Rasterio 1.4.4 Documentation.” Readthedocs.Io, rasterio.readthedocs.io/en/stable/topics/reproject.html. Accessed 19 May 2026.
+-Scientific Python Forum. “Distance_transform_edt — SciPy v1.17.0 Manual.” Scipy.org, docs.scipy.org/doc/scipy/reference/generated/scipy.ndimage.distance_transform_edt.html. Accessed 19 May 2026.
+-“USGS EROS Archive - Sentinel-2 - Comparison of Sentinel-2 and Landsat.” USGS, www.usgs.gov/centers/eros/science/usgs-eros-archive-sentinel-2-comparison-sentinel-2-and-landsat. Accessed 19 May 2026.
+-USGS-U.S. Geological Survey. “EarthExplorer.” USGS - U.S. Geological Survey, earthexplorer.usgs.gov/. Accessed 19 May 2026.
